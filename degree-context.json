@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "DegreeCredential": {
+      "@id": "https://yuvrajshekhawat-protean.github.io/credentialing/degree-context.json#DegreeCredential"
+    },
+     "dob": "schema:birthDate",
+     "degree": "schema:Text",
+     "gender": "schema:gender",
+     "mobile": "schema:telephone",
+     "name": "schema:Text",
+     "rollNo": "schema:Text",
+     "universityName": "schema:Text",
+     "email": "schema:email"
+  }
+}
