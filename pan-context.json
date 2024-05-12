@@ -14,6 +14,7 @@
      "panNumber": "schema:Text",
      "panFathersName": "schema:Text",
      "rollNo": "schema:Text",
-     "mobile": "schema:telephone"
+     "mobile": "schema:telephone",
+     "fullName": "schema:Text"
   }
 }
