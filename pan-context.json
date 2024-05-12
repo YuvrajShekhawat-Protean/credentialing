@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "PanCredential": {
+      "@id": "https://yuvrajshekhawat-protean.github.io/credentialing/pan-context.json#PanCredential"
+    },
+     "dob": "schema:birthDate",
+     "panIssuedOn": "schema:DateTime",
+     "panName": "schema:Text",
+     "gender": "schema:gender",
+     "panNumber": "schema:Text",
+     "panFathersName": "schema:Text",
+     "rollNo": "schema:Text",
+     "mobile": "schema:telephone"
+  }
+}
