@@ -8,7 +8,7 @@
       "@id": "https://yuvrajshekhawat-protean.github.io/credentialing/degree-context.json#DegreeCredential"
     },
      "dob": "schema:birthDate",
-     "degreeIssuedOn": "schema:date",
+     "degreeIssuedOn": "schema:DateTime",
      "degree": "schema:Text",
      "gender": "schema:gender",
      "mobile": "schema:telephone",
