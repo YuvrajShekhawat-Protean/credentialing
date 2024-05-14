@@ -9,7 +9,7 @@
     },
       "firstName": "schema:Text",
       "lastName": "schema:Text",
-      "dob": "schema:Text",
+      "dob": "schema:birthDate",
       "gender": "schema:gender",
       "mobile": "schema:telephone",
       "email": "schema:email",
