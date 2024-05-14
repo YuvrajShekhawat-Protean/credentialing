@@ -18,6 +18,7 @@
       "address1": "schema:Text",
       "country": "schema:Text",
       "state": "schema:Text",
+      "pincode": "schema:Text",
       "district": "schema:Text"
   }
 }
