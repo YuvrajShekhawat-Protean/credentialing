@@ -7,15 +7,18 @@
     "IssuanceCredential": {
       "@id": "https://yuvrajshekhawat-protean.github.io/credentialing/issuance-context.json#IssuanceCredential"
     },
+    "firstName": "schema:Text",
+    "lastName": "schema:Text",
     "dob": "schema:birthDate",
-    "email": "schema:email",
     "gender": "schema:gender",
     "mobile": "schema:telephone",
-    "fullName": "schema:name",
-    "name": "schema:Text",
-    "issuanceNo": "schema:Text",
-    "IssuedOn": "schema:DateTime",
-    "poi": "schema:Text",
-    "address": "schema:Text"
+    "email": "schema:email",
+    "address1": "schema:Text",
+    "country": "schema:Text",
+    "state": "schema:Text",
+    "district": "schema:Text",
+    "pincode": "schema:Text",
+    "issuanceId": "schema:Text",
+    "photo": "schema:Text"
   }
 }
