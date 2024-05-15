@@ -14,7 +14,6 @@
      "mobile": "schema:telephone",
      "name": "schema:Text",
      "rollNo": "schema:Text",
-     "universityName": "schema:Text",
-     "email": "schema:email"
+     "universityName": "schema:Text"
   }
 }
